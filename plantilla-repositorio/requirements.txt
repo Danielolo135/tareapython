@@ -1,0 +1,2 @@
+# El programa solo usa la biblioteca estándar, así que no necesita paquetes externos.
+# El archivo se mantiene para que el proyecto tenga la estructura habitual.

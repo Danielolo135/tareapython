@@ -1,0 +1,10 @@
+# Entorno virtual: se regenera con python3 -m venv .venv
+.venv/
+
+# Bytecode que genera Python automáticamente
+__pycache__/
+*.pyc
+
+# Configuración de los IDE
+.idea/
+.vscode/

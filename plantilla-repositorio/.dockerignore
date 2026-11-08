@@ -1,0 +1,8 @@
+.git
+azure-pipelines.yml
+.venv
+__pycache__
+*.pyc
+.idea
+.vscode
+informe*.pdf
